@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intents Nativas</string>
+
+    <string-array name="acoes">
+        <item>Discar para telefone</item>
+        <item>Ligar para telefone</item>
+        <item>Enviar SMS</item>
+        <item>Compartilhar</item>
+        <item>Camera Foto</item>
+        <item>Camera Video</item>
+        <item>Visualizar Todos Contatos</item>
+        <item>Visualizar Contato 1</item>
+        <item>Selecionar Contato</item>
+        <item>Intent customizada</item>
+        <item>Intent customizada / schema</item>
+        <item>BrowserFake</item>
+        <item>Sair</item>
+    </string-array>
+</resources>
